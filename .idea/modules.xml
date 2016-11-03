@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RacerML.iml" filepath="$PROJECT_DIR$/.idea/RacerML.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/RacerML/.idea/RacerML.iml" filepath="$USER_HOME$/PycharmProjects/RacerML/.idea/RacerML.iml" />
+    </modules>
+  </component>
+</project>
